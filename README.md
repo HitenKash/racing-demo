@@ -12,7 +12,7 @@ Symfony project 5.4
 
 * **1) Git clone**
 ``` bash
-$ git clone https://github.com/kailashkds/racing-demo.git
+$ git clone https://github.com/HitenKash/racing-demo.git
 ```
 * **2) Inside the docker folder**
 ``` bash
